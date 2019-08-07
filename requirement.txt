@@ -1,0 +1,16 @@
+sebelum menggunakan rest-api ini pastikan terinstall :
+
+- NodeJs
+1. express package
+2. mysql package
+3. body-parser package
+
+untuk install 3 package tersebut masuk ke command prompt lalu masuk -> folder project ini
+contoh : cd rest-api
+lalu ketik : npm install --save express mysql body-parser
+ini otomatis menginstall semua package, atau bisa satu2
+
+contoh :
+npm install --save express
+npm install --save mysql
+npm install --save body-parser

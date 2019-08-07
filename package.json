@@ -1,0 +1,24 @@
+{
+  "name": "restfull-api",
+  "version": "1.0.0",
+  "description": "membuat rest api untuk microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurramdandoni/rest-api.git"
+  },
+  "author": "Doni Nurramdan, A. Md.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurramdandoni/rest-api/issues"
+  },
+  "homepage": "https://github.com/nurramdandoni/rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
